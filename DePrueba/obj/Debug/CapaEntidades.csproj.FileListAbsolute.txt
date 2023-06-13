@@ -1,0 +1,18 @@
+C:\Users\LEO\source\repos\UsuariosTNS\DePrueba\bin\Debug\DePrueba.dll
+C:\Users\LEO\source\repos\UsuariosTNS\DePrueba\bin\Debug\DePrueba.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\DePrueba\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\LEO\source\repos\UsuariosTNS\DePrueba\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\LEO\source\repos\UsuariosTNS\DePrueba\obj\Debug\DePrueba.dll
+C:\Users\LEO\source\repos\UsuariosTNS\DePrueba\obj\Debug\DePrueba.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\bin\Debug\DePrueba.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\bin\Debug\DePrueba.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Debug\DePrueba.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Debug\DePrueba.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\DePrueba\bin\Debug\DePrueba.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\DePrueba\bin\Debug\DePrueba.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\DePrueba\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\DePrueba\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\DePrueba\obj\Debug\DePrueba.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\DePrueba\obj\Debug\DePrueba.pdb

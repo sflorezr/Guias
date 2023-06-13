@@ -1,0 +1,39 @@
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\CapaLogic.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\CapaLogic.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\CapaAccesoTNS.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\DePrueba.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\CapaAccesoTNS.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\DePrueba.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csprojAssemblyReference.cache
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csproj.CoreCompileInputs.cache
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csproj.CopyComplete
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaLogic.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaLogic.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaAccesoTNS.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\DePrueba.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaAccesoTNS.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\DePrueba.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csprojAssemblyReference.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csproj.CopyComplete
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaLogic.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaLogic.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaAccesoTNS.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\DePrueba.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\CapaAccesoTNS.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\DePrueba.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csproj.AssemblyReference.cache
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csproj.CoreCompileInputs.cache
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.csproj.CopyComplete
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaLogic\obj\Debug\CapaLogic.pdb

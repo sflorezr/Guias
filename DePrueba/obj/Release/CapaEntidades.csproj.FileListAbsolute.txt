@@ -1,0 +1,6 @@
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\bin\Release\DePrueba.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\bin\Release\DePrueba.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Release\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Release\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Release\DePrueba.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\DePrueba\obj\Release\DePrueba.pdb

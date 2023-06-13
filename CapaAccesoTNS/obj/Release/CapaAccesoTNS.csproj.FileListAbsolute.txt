@@ -1,0 +1,9 @@
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Release\CapaAccesoTNS.csprojAssemblyReference.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Release\CapaAccesoTNS.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Release\CapaAccesoTNS.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Release\CapaAccesoTNS.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Release\DePrueba.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Release\DePrueba.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Release\CapaAccesoTNS.csproj.CopyComplete
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Release\CapaAccesoTNS.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Release\CapaAccesoTNS.pdb

@@ -1,0 +1,31 @@
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\bin\Debug\CapaAccesoTNS.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\bin\Debug\CapaAccesoTNS.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\bin\Debug\DePrueba.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\bin\Debug\DePrueba.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csprojAssemblyReference.cache
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csproj.CoreCompileInputs.cache
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csproj.CopyComplete
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.dll
+C:\Users\LEO\source\repos\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\CapaAccesoTNS.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\CapaAccesoTNS.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\DePrueba.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\DePrueba.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csprojAssemblyReference.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csproj.CopyComplete
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.dll
+C:\Users\Sergio Florez\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\CapaAccesoTNS.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\CapaAccesoTNS.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\DePrueba.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\DePrueba.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csproj.AssemblyReference.cache
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csproj.CoreCompileInputs.cache
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.csproj.CopyComplete
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.dll
+C:\Users\slflo\OneDrive\Documents\UsuariosTNS\CapaAccesoTNS\obj\Debug\CapaAccesoTNS.pdb
